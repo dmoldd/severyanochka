@@ -148,3 +148,7 @@ template {
 [hidden] {
   display: none;
 }
+
+button:active, button:focus {
+  outline: none;
+}
